@@ -65,6 +65,10 @@ button {
   cursor: pointer;
 }
 
+.hide {
+display:none;
+}
+
 /* Main Card Section */
 	main {
 	  width: 39%;
