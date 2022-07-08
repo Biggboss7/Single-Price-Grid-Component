@@ -18,11 +18,11 @@ body {
 }
 
 /* Fontstyle */
-h2 {
+h1 {
   color: hsl(179, 62%, 43%);
 }
 
-h3 {
+h2 {
   color: hsl(71, 73%, 54%);
 }
 
